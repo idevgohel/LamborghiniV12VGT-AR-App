@@ -26,4 +26,6 @@ Screenshot 6 :
 
 ![image6](https://github.com/idevgohel/LamborghiniV12VGT-AR-App/assets/118293833/df241891-f39f-4704-a8c1-4156456b1018)
 
-VIDEO (App Output) :
+VIDEO (Download app output video from the below link) :
+
+https://github.com/idevgohel/LamborghiniV12VGT-AR-App/blob/main/App%20Output.mp4
